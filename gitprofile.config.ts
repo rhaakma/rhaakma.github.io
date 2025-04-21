@@ -59,7 +59,7 @@ const CONFIG = {
   social: {
     linkedin: '',
     x: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    mastodon: '',
     researchGate: '',
     facebook: '',
     instagram: '',
