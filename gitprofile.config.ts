@@ -83,20 +83,10 @@ const CONFIG = {
       'https://github.com/rhaakma/rhaakma.github.io/raw/main/OnepageCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'PCR',
+    'Bioinformatics',
+    'Sterile Techniques',
+    'Soil Sampling',
   ],
   experiences: [
     {
@@ -124,16 +114,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'CSU, Stanislaus',
+      degree: 'B.S. in Biological Sciences',
+      from: '2023',
+      to: '2025',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Columbia College',
+      degree: 'A.S.T of Biology',
+      from: '2021',
+      to: '2023',
     },
   ],
   publications: [
