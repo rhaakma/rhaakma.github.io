@@ -90,18 +90,18 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Chicken Ranch Casino and Resort',
+      position: 'Lead Server',
+      from: 'May 2023',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://chickenranchcasinoresort.com/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: '50s Roadhouse and Restaurant',
+      position: 'Waitress',
+      from: 'May 2019',
+      to: 'present',
+      companyLink: 'https://50sroadhouse.shop/',
     },
   ],
   certifications: [
