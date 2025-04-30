@@ -45,8 +45,8 @@ const CONFIG = {
           description:
             'This project describes the taxonomic history, polygenetics, interpretations of phylogenies, major identifying characteristics, and the distribution of species in the Boraginaceae family.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/rhaakma/rhaakma.github.io/raw/main/Boraginaceae.pdfg',
+          link: 'https://github.com/rhaakma/rhaakma.github.io/raw/main/Boraginaceae.pdf',
         },
       ],
     },
