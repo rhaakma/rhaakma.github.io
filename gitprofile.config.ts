@@ -33,7 +33,7 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Species Assessement Report for the California Newt',
+          title: 'Species Assessement Report on the California Newt',
           description:
             'The Species Assessment Report provides an in-depth analysis of the California Newt species.  It provides information about the ecoloy, life history, population trends, and threats that all contribute to its vulnerable status. ',
           imageUrl:
@@ -41,9 +41,9 @@ const CONFIG = {
           link: 'https://example.com',
         },
         {
-          title: 'Project Name',
+          title: 'Classification of the Boraginaceae Family',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'This project describes the taxonomic history, polygenetics, interpretations of phylogenies, major identifying characteristics, and the distribution of species in the Boraginaceae family.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
