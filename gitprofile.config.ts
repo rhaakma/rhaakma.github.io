@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'The Species Assessment Report provides an in-depth analysis of the California Newt species.  It provides information about the ecoloy, life history, population trends, and threats that all contribute to its vulnerable status. ',
           imageUrl:
-            'https://github.com/rhaakma/rhaakma.github.io/raw/main/SAA%20Presentation.pdf',
+            'https://github.com/rhaakma/rhaakma.github.io/raw/main/CAnewt.png',
           link: "https://github.com/rhaakma/rhaakma.github.io/raw/main/SAA%20Presentation.pdf',
         },
         {
