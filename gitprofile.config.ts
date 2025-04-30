@@ -37,8 +37,8 @@ const CONFIG = {
           description:
             'The Species Assessment Report provides an in-depth analysis of the California Newt species.  It provides information about the ecoloy, life history, population trends, and threats that all contribute to its vulnerable status. ',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/rhaakma/rhaakma.github.io/raw/main/SAA%20Presentation.pdf',
+          link: "https://github.com/rhaakma/rhaakma.github.io/raw/main/SAA%20Presentation.pdf',
         },
         {
           title: 'Classification of the Boraginaceae Family',
