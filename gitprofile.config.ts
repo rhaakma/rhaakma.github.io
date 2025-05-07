@@ -143,7 +143,8 @@ const CONFIG = {
       authors: '',
       link: '',
       description:
-        ''
+        '',
+    },
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
